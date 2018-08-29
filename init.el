@@ -1,4 +1,3 @@
-(load "~/.emacs.d/lisp/PG/generic/proof-site")
 (require 'package)
 
 ;; Add melpa package source when using package list
